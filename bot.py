@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ================== CONFIG ==================
 BOT_TOKEN = "9248027011:AAHIm12H1_NRc-g4Bbs1C8405BCIL1TSiZM"
-CHAT_ID = 9248027011          # ←←← PUT YOUR CHAT ID HERE
+CHAT_ID = 6873189530
 
 CHECK_INTERVAL = 25 * 60
 
